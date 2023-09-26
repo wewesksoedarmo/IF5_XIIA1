@@ -1,3 +1,9 @@
+#Download XAMMP
+#Start Apache & MySQL
+#Check on http://localhost/phpmyadmin/
+#Check on python
+    #--> Setting --> Python Interpreter, kalau udh ada mysql-connector-python berarti udh connect
+
 import datetime
 import mysql.connector
 db = mysql.connector.connect(
